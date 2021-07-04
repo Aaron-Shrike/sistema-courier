@@ -1,7 +1,8 @@
 # Sistema Courier - C
-Sistema de una Courier en lenguaje C. Crea una Courier con el máximo de encomiendas y el precio por kilogramo para luego registra las encomiendas y actualiza su estado de envió, este estado puede ser consultado en el sistema, así como el dinero recaudado del día.
-<br>
-Proyecto del **segundo semestre** de estudios en Ingeniería Informática, presentado el **24/07/18**.
+Sistema de una Courier en lenguaje C. Proyecto del **segundo semestre** de estudios en Ingeniería Informática, presentado el **24/07/18**.
+
+## Descripción
+Crea una Courier con el máximo de encomiendas y el precio por kilogramo para luego registra las encomiendas y actualiza su estado de envió, este estado puede ser consultado en el sistema, así como el dinero recaudado del día.
 
 ## Uso
 1. **Inicializar**: Se inicializa la courier y sus variables.
