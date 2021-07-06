@@ -49,7 +49,7 @@ main()
    int op,flag1=0,flag2=0,flag3=0;
    do
    {
-      clrscr();
+      //clrscr(); //solo es valido en borland
    	menu();
       op=leerangoint("\nIngrese opcion: ",1,8);
       switch(op)
